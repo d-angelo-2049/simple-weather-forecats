@@ -1,0 +1,10 @@
+name: tensorflow-py3_7
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - cudatoolkit=10.0
+  - tensorflow-gpu=1.13.1
+  - matplotlib
+  - jupyterlab
+  - pandas
